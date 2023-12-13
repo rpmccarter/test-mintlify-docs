@@ -21,7 +21,7 @@
   "paths": {
     "/plants": {
       "get": {
-        "description": "Updated description",
+        "description": "Brand new description",
         "parameters": [
           {
             "name": "limit",
