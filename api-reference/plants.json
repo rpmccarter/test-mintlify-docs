@@ -21,7 +21,7 @@
   "paths": {
     "/plants": {
       "get": {
-        "description": "Brand new test description",
+        "description": "A whole new test description",
         "parameters": [
           {
             "name": "limit",
