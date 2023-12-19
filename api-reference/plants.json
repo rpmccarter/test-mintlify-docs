@@ -145,6 +145,9 @@
           "tag": {
             "description": "Tag to specify the type",
             "type": "string"
+          },
+          "friend": {
+            "$ref": "#/components/schemas/Plant"
           }
         }
       },
