@@ -146,8 +146,12 @@
             "description": "Tag to specify the type",
             "type": "string"
           },
-          "friend": {
-            "$ref": "#/components/schemas/Plant"
+          "descendants": {
+            "description": "A list of all direct genetic descendants",
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Plant"
+            }
           }
         }
       },
