@@ -21,6 +21,28 @@
   "paths": {
     "/plants": {
       "get": {
+        "x-codeSamples": [
+          {
+            "lang": "bash",
+            "label": "Hello World",
+            "source": "echo hello world"
+          },
+          {
+            "lang": "javascript",
+            "label": "Hello World",
+            "source": "console.log('hello world');"
+          },
+          {
+            "lang": "bash",
+            "label": "my example",
+            "source": "echo hello world"
+          },
+          {
+            "lang": "javascript",
+            "label": "test example",
+            "source": "echo hello world"
+          }
+        ],
         "description": "A whole new test description",
         "parameters": [
           {
