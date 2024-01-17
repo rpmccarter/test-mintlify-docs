@@ -40,7 +40,7 @@
           {
             "lang": "javascript",
             "label": "test example",
-            "source": "echo hello world"
+            "source": "console.log('hello world');"
           }
         ],
         "description": "A whole new test description",
