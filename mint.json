@@ -1,11 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "versions": ["foo"],
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -26,12 +24,8 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  "tabs": 3,
+  "foo": "bar",
   "api": {
     "maintainOrder": true
   },
