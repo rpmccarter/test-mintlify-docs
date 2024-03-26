@@ -34,6 +34,7 @@
   "api": {
     "maintainOrder": true
   },
+  "openapi": "https://api.baseten.co/v1/spec",
   "anchors": [
     {
       "name": "Documentation",
@@ -67,9 +68,10 @@
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
         "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/delete",
+        "api-reference/endpoint/post"
       ]
     }
   ],
