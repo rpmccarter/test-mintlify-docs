@@ -34,6 +34,7 @@
   "api": {
     "maintainOrder": true
   },
+  "openapi": "https://api.baseten.co/v1/spec",
   "anchors": [
     {
       "name": "Documentation",
